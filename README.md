@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/) 
 
 
 
