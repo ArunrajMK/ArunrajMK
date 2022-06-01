@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about on arunrajshanker6@gmail.com
+- 💬 Ask me about coading
 
 
 
