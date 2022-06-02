@@ -2,36 +2,14 @@
 
 Here are some ideas to get you started:
 
+
+🙋‍♂️ About Me
 - 🔭 I’m currently studying @ Masai School
-
-
-
-
 - 🌱 I’m currently learning more on web dvelopment
-
-
-
-
-
-
 - 👯 I’m looking to collaborate on a web developing company
-
-
-
-
-
 - 💬 Ask me about coading
-
-
-
-
-
-
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/) 
-
-
-
-- 😄 Pronouns: he/him/MK
+- - 😄 Pronouns: he/him/MK
 
 
 
