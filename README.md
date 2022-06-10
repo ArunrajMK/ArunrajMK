@@ -21,6 +21,10 @@
 - ⚡ Fun fact **I think I'm funny**
 
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
+
+- 📝 To het the complete details: [Portfolio](https://arunrajmk.netlify.app/)
+
+
 <p align="left">
 </p>
 
