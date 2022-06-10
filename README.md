@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **arunrajshanker6@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11G0BUykJpokuEcJuwSFFHDVj_NAAmhKrPhH82Nzi-_k/edit](https://docs.google.com/document/d/11G0BUykJpokuEcJuwSFFHDVj_NAAmhKrPhH82Nzi-_k/edit)
+- 📄 Know about me [Resume](%5BLinkedIn%5D%28https://www.linkedin.com/in/arunraj-mk-45241b237/%29)
 
 - ⚡ Fun fact **I think I'm funny**
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
 <p align="left">
 </p>
 
