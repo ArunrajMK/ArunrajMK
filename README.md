@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Framework, React.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArunrajMK?tab=repositories](https://github.com/ArunrajMK?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Repositories](https://github.com/ArunrajMK?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@arunrajshanker6](https://medium.com/@arunrajshanker6)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **arunrajshanker6@gmail.com**
 
-- 📄 Know about me [Resume](%5BLinkedIn%5D%28https://www.linkedin.com/in/arunraj-mk-45241b237/%29)
+- 📄 Know about me: [Resume](https://drive.google.com/file/d/1knJq9-uKRhQpBAvyd8ojw0YQ9aQerISk/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
