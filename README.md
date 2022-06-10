@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/ArunrajMK?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@arunrajshanker6](https://medium.com/@arunrajshanker6)
+- 📝 I regularly write articles on: [Medium](https://medium.com/@arunrajshanker6)
 
 - 💬 Ask me about **React, Node.JS**
 
