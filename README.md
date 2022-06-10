@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/) </h3>
+Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
 <p align="left">
 </p>
 
