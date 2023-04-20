@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **arunrajshanker6@gmail.com**
 
-- 📄 Know about me: [Resume](https://drive.google.com/file/d/1knJq9-uKRhQpBAvyd8ojw0YQ9aQerISk/view?usp=sharing)
+- 📄 Know about me: [Resume](https://drive.google.com/file/d/1NrQRWlk4ha6uTlQpi25oF2m81IlPs6Dm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
 - 🧿 Connect with me: [LinkedIn](https://www.linkedin.com/in/arunraj-mk-45241b237/)
 
-- 📈 To het the complete details: [Portfolio](https://arunrajmk.netlify.app/)
+- 📈 To het the complete details: [Portfolio](https://arunrajmk.github.io/)
 
 
 <p align="left">
